@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Form-React-Redux/static/css/main.1c5568e5.chunk.css",
+    "main.js": "/Form-React-Redux/static/js/main.9636dd51.chunk.js",
+    "main.js.map": "/Form-React-Redux/static/js/main.9636dd51.chunk.js.map",
+    "runtime-main.js": "/Form-React-Redux/static/js/runtime-main.54a8688d.js",
+    "runtime-main.js.map": "/Form-React-Redux/static/js/runtime-main.54a8688d.js.map",
+    "static/js/2.d2223595.chunk.js": "/Form-React-Redux/static/js/2.d2223595.chunk.js",
+    "static/js/2.d2223595.chunk.js.map": "/Form-React-Redux/static/js/2.d2223595.chunk.js.map",
+    "index.html": "/Form-React-Redux/index.html",
+    "precache-manifest.33a264712f623113081c56794700f369.js": "/Form-React-Redux/precache-manifest.33a264712f623113081c56794700f369.js",
+    "service-worker.js": "/Form-React-Redux/service-worker.js",
+    "static/css/main.1c5568e5.chunk.css.map": "/Form-React-Redux/static/css/main.1c5568e5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54a8688d.js",
+    "static/js/2.d2223595.chunk.js",
+    "static/css/main.1c5568e5.chunk.css",
+    "static/js/main.9636dd51.chunk.js"
+  ]
+}
